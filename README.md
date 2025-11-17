@@ -128,3 +128,14 @@ Radar detection range restored to 220 m
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9364d85c-f0f3-4c44-989a-03c1dfed72bc" />
 
+Conclusion
+
+In a 77 GHz automotive radar front-end, even minor impedance mismatch drastically affects detection range and reliability. Using the Smith Chart, engineers can visualize impedance, calculate SWR, reflection coefficients, and design accurate matching networks. This ensures:
+Maximum power transfer
+Reduced reflections
+Stable radar chirp transmission
+Improved detection performance
+Reliable ADAS operation
+
+Smith Chart remains one of the most powerful tools in high-frequency radar engineering, even with modern simulation software.
+
