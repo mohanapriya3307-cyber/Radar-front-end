@@ -42,3 +42,25 @@ Shift impedance using microstrip line,
 Design matching network,
 And restore the radar’s maximum performance.
 
+Problem Statement
+---
+Given:
+Load impedance of radar antenna:
+
+<img width="284" height="48" alt="image" src="https://github.com/user-attachments/assets/e3e302a5-4c82-406a-91ae-eb98b418d64f" />
+
+Transmission line impedance:
+
+<img width="139" height="36" alt="image" src="https://github.com/user-attachments/assets/d6ed7698-0fe3-4e1c-92a9-d3c837e5a8af" />
+
+Find using the Smith Chart:
+
+Normalized Impedance
+
+Reflection Coefficient (Γ)
+
+VSWR
+
+Return Loss
+
+Matching network solution
