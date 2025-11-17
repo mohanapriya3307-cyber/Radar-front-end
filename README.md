@@ -59,8 +59,23 @@ Normalized Impedance
 
 Reflection Coefficient (Γ)
 
-VSWR
+Step-By-Step Smith Chart Solution
+---
+Normalize the Load Impedance
 
-Return Loss
+<img width="355" height="156" alt="image" src="https://github.com/user-attachments/assets/0e7db2ad-bdf2-4eb4-b92a-ff71d1b4f3f7" />
 
-Matching network solution
+Plot point on Smith Chart.
+
+(B) Calculate Reflection Coefficient
+
+<img width="171" height="75" alt="image" src="https://github.com/user-attachments/assets/c96e2b51-f699-4053-b68d-16eb9192ea58" />
+
+After calculation:
+
+<img width="208" height="46" alt="image" src="https://github.com/user-attachments/assets/ce64ab65-7925-40ba-be69-c04362287009" />
+
+Magnitude:
+
+<img width="164" height="38" alt="image" src="https://github.com/user-attachments/assets/a87051d5-125d-45f1-a4d4-ca9e8d9490aa" />
+
