@@ -90,3 +90,28 @@ Acceptable for low-frequency networks
 <img width="224" height="115" alt="image" src="https://github.com/user-attachments/assets/0e03e4cb-12fa-43ea-aca5-074b091fc682" />
 
 Required RL for radar front-end: ≥ 20 dB
+
+Matching Network Design
+---
+
+Approach used in ADAS radar modules:
+
+Option 1: Series Microstrip Stub
+
+Move impedance toward center of Smith chart
+
+Add short-circuited stub
+
+Tune length until point reaches 1 + j0
+
+Option 2: Shunt Open Stub
+
+Used when PA output must not be loaded heavily
+
+Option 3: Two-Stub Matching
+
+Used in mmWave radars (TI AWR1443)
+
+Option 4: λ/4 Transformer
+
+For radars using WG → PCB transitions.
