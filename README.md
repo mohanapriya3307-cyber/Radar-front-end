@@ -95,23 +95,33 @@ Matching Network Design
 ---
 
 Approach used in ADAS radar modules:
-
 Option 1: Series Microstrip Stub
 
 Move impedance toward center of Smith chart
-
 Add short-circuited stub
 
 Tune length until point reaches 1 + j0
-
 Option 2: Shunt Open Stub
 
 Used when PA output must not be loaded heavily
-
 Option 3: Two-Stub Matching
 
 Used in mmWave radars (TI AWR1443)
-
 Option 4: λ/4 Transformer
 
 For radars using WG → PCB transitions.
+
+Real-Time Radar Improvement
+---
+
+After matching:
+
+SWR improved from 1.41 → 1.15
+
+Γ reduced from 0.17 → 0.07
+
+Return loss improved from 15 dB → 23 dB
+
+Output power increased by ~0.8 dB
+
+Radar detection range restored to 220 m
