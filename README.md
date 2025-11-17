@@ -79,3 +79,14 @@ Magnitude:
 
 <img width="164" height="38" alt="image" src="https://github.com/user-attachments/assets/a87051d5-125d-45f1-a4d4-ca9e8d9490aa" />
 
+(C) Calculate SWR
+
+<img width="212" height="140" alt="image" src="https://github.com/user-attachments/assets/de3cf4ac-d102-4dc9-833d-4cd4b99c908e" />
+
+Acceptable for low-frequency networks
+
+(D) Return Loss
+
+<img width="224" height="115" alt="image" src="https://github.com/user-attachments/assets/0e03e4cb-12fa-43ea-aca5-074b091fc682" />
+
+Required RL for radar front-end: ≥ 20 dB
