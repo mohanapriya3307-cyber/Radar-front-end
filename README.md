@@ -137,5 +137,3 @@ Stable radar chirp transmission
 Improved detection performance
 Reliable ADAS operation
 
-Smith Chart remains one of the most powerful tools in high-frequency radar engineering, even with modern simulation software.
-
